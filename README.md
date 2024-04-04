@@ -21,7 +21,7 @@ To get started with the CAD-Dataset-Creator:
 
 1. Clone the repository to your local machine.
       ```bash
-   git clone https://github.com/yourusername/CAD-Dataset-Creator.git
+   git clone https://github.com/Hassan23121999/CAD-Dataset-Creator.git
 3. Install the required dependencies:
    ```bash
    pip install cadquery pandas
